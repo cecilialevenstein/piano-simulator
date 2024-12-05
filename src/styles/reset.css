@@ -6,6 +6,8 @@
   /* 2. Remove default margin */
   * {
     margin: 0;
+    outline: none;
+    font-family: "Poppins", sans-serif;
   }
   
   body {
